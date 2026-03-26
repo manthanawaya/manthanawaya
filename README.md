@@ -1,6 +1,6 @@
 ## MANTHAN AWAYA
 ## CSE(AI&ML)
-## 1ST YEAR
+## 1ST YEAR VIT BHOPAL UNIVERSITY
 
 <!--
 **manthanawaya/manthanawaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

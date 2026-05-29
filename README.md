@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a2744,100:0d1117&height=200&section=header&text=Manthan%20Awaya&fontSize=55&fontColor=00d9ff&animation=fadeIn&fontAlignY=55&desc=B.Tech%20CS%20%40%20VIT%20Bhopal%20%7C%20Builder%20%7C%20Hackathon%20Veteran&descSize=16&descAlignY=75&descFontColor=8b949e" width="100%"/>
+<img src="header.svg" alt="Manthan Awaya" width="100%"/>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🏆+Built+SafeSpace+AI+%26+AI+Resume+Screener;⚡+DSA+Grinder+%7C+Flask+Dev+%7C+Data+Explorer;📸+Footballer+%7C+Gamer+%7C+Show-binger+%7C+Photographer;🚀+Next+big+thing+loading...)](https://git.io/typing-svg)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manthanawaya&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/manthanawaya?style=for-the-badge&color=8b5cf6&labelColor=0d1117&label=FOLLOWERS)](https://github.com/manthanawaya)

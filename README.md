@@ -88,11 +88,11 @@ Automated JD-vs-resume matcher that cuts recruiter screening time. Parses, score
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manthanawaya&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manthanawaya&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manthanawaya&show_icons=true&theme=dark&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanawaya&layout=compact&theme=dark&v=1" alt="Top Languages" width="48%" />
+</p>
 
 <br/><br/>
 
@@ -104,13 +104,9 @@ Automated JD-vs-resume matcher that cuts recruiter screening time. Parses, score
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/manthanawaya/manthanawaya/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manthanawaya/manthanawaya/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/manthanawaya/manthanawaya/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</div>
+## 🐍 Contribution Snake
+
+![contribution snake](https://raw.githubusercontent.com/manthanawaya/manthanawaya/output/github-contribution-grid-snake.svg)
 
 ---
 

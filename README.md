@@ -1,12 +1,11 @@
 <div align="center">
-<img src="header.svg" alt="Manthan Awaya" width="100%"/>
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a2744,100:0d1117&height=200&section=header&text=Manthan%20Awaya&fontSize=55&fontColor=00d9ff&animation=fadeIn&fontAlignY=55&desc=B.Tech%20CS%20%40%20VIT%20Bhopal%20%7C%20Builder%20%7C%20Hackathon%20Veteran&descSize=16&descAlignY=75&descFontColor=8b949e" width="100%"/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🏆+Built+SafeSpace+AI+%26+AI+Resume+Screener;⚡+DSA+Grinder+%7C+Flask+Dev+%7C+Data+Explorer;📸+Footballer+%7C+Gamer+%7C+Show-binger+%7C+Photographer;🚀+Next+big+thing+loading...)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🏆+SafeSpace+AI+%7C+AI+Resume+Screener+%7C+Grade-Guard;⚡+DSA+grinder+%7C+Flask+developer+%7C+Data+explorer;📸+Footballer+%7C+Gamer+%7C+Show-binger+%7C+Photographer;🚀+Next+big+thing+loading...)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=manthanawaya&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/manthanawaya?style=for-the-badge&color=8b5cf6&labelColor=0d1117&label=FOLLOWERS)](https://github.com/manthanawaya)
 
 </div>
 
@@ -32,11 +31,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,cpp,flask,html,css,js,git,github,vscode&theme=dark&perline=9"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-★★★★☆-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-★★★☆☆-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -57,7 +52,7 @@
 ### 🛡️ Grade-Guard
 > **Predictive Grading Engine**
 
-Tired of not knowing where you stand in relative grading? Built a Python tool that calculates exact academic standing using weighted assessments.
+Tired of not knowing your relative grade? Built a Python tool that calculates exact academic standing using weighted assessments.
 
 `Python` · `Data Analysis` · `Algorithms`
 
@@ -67,7 +62,7 @@ Tired of not knowing where you stand in relative grading? Built a Python tool th
 ### 🤖 SafeSpace AI
 > **Hackathon Project**
 
-Browser extension that shields users from harmful digital content in real-time. Built end-to-end under hackathon pressure and delivered.
+Browser extension shielding users from harmful digital content in real-time. Built end-to-end under hackathon pressure.
 
 `AI/ML` · `Browser Extension` · `NLP`
 
@@ -87,7 +82,7 @@ Automated JD-vs-resume matcher that cuts recruiter screening time. Parses, score
 
 ---
 
-## 📊 Numbers
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -137,6 +132,6 @@ while not_coding:
 
 <br/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_Down.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:00d9ff&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>

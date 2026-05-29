@@ -104,10 +104,7 @@ Automated JD-vs-resume matcher that cuts recruiter screening time. Parses, score
 
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
-![contribution snake](https://raw.githubusercontent.com/manthanawaya/manthanawaya/output/github-contribution-grid-snake.svg)
-
+![contribution snake](https://raw.githubusercontent.com/manthanawaya/manthanawaya/main/github-contribution-grid-snake.svg)
 ---
 
 ## 🕹️ Life Outside Code

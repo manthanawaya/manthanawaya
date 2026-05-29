@@ -35,7 +35,7 @@ I am a B.Tech student currently navigating my way through computer science, buil
 ### 🕹️ Beyond the Code
 When I'm not staring at a code editor, you can usually find me:
 * 🎮 Competing online games
-* ⚽ scoring goals
+* ⚽ Scoring goals
 * 🎥 Binging shows
 * 🧪 Clicking pictures
 

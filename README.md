@@ -88,11 +88,13 @@ Automated JD-vs-resume matcher that cuts recruiter screening time. Parses, score
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manthanawaya&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manthanawaya&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manthanawaya&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanawaya&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 <br/><br/>
+<div align="centre">
 
 <img src="https://streak-stats.demolab.com?user=manthanawaya&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=8b5cf6&fire=f97316&currStreakLabel=00d9ff&border_radius=10" height="165"/>
 
@@ -102,7 +104,7 @@ Automated JD-vs-resume matcher that cuts recruiter screening time. Parses, score
 
 ## 🐍 Contribution Snake
 
-![contribution snake](https://github.com/manthanawaya/manthanawaya/blob/output/github-contribution-grid-snake.svg)
+![contribution snake](https://github.com/manthanawaya/manthanawaya/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
 
 ## 🕹️ Life Outside Code
 

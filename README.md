@@ -89,23 +89,22 @@ Automated JD-vs-resume matcher that cuts recruiter screening time. Parses, score
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manthanawaya&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanawaya&layout=compact&theme=tokyonight&hide_border=true" />
+
+<!-- Stats using readme-stats alternative -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manthanawaya&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manthanawaya&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manthanawaya&theme=tokyonight" width="49%"/>
+
+<!-- Streak stats - different service -->
+<img src="https://streak-stats.demolab.com?user=manthanawaya&theme=tokyonight&hide_border=true" width="60%"/>
+
 </div>
-
-<br/><br/>
-<div align="centre">
-
-<img src="https://streak-stats.demolab.com?user=manthanawaya&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=8b5cf6&fire=f97316&currStreakLabel=00d9ff&border_radius=10" height="165"/>
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
 
-![contribution snake](https://github.com/manthanawaya/manthanawaya/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
-
+![contribution snake](https://github.com/manthanawaya/manthanawaya/blob/output/github-contribution-grid-snake.svg)
 ## 🕹️ Life Outside Code
 
 ```python

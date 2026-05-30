@@ -88,11 +88,9 @@ Automated JD-vs-resume matcher that cuts recruiter screening time. Parses, score
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manthanawaya&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manthanawaya&show_icons=true&theme=dark&v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanawaya&layout=compact&theme=dark&v=1" alt="Top Languages" width="48%" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manthanawaya&layout=compact&theme=dark)
 
 <br/><br/>
 
@@ -104,8 +102,7 @@ Automated JD-vs-resume matcher that cuts recruiter screening time. Parses, score
 
 ## 🐍 Contribution Snake
 
-![contribution snake](https://raw.githubusercontent.com/manthanawaya/manthanawaya/main/github-contribution-grid-snake.svg)
----
+![contribution snake](https://github.com/manthanawaya/manthanawaya/blob/output/github-contribution-grid-snake.svg)
 
 ## 🕹️ Life Outside Code
 
